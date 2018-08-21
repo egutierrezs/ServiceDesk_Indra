@@ -1,0 +1,5 @@
+Archivos de creación de Base de Datos necesarios
+para el desarrollo de los CUS:
+-Actualizar Técnico
+-Actualizar Base de Conocimiento
+-Actualizar Encuesta

@@ -1,0 +1,9 @@
+Código Fuente de los CUS:
+-Actualizar Ticket
+-Actualizar Atención de Ticket
+
+*Herramientas Utilizadas
+ Visual Studio 2015
+ Sql Server 2012 / Sql Server 2014
+ Framework Dev Extreme
+ 
